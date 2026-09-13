@@ -10,7 +10,7 @@ Projects
 ...
 
 🧩 Codewars
-[My Codewars Profile]
+[My Codewars Profile](https://www.codewars.com/users/Abylaikhan444)]
 
 Repositories
 ...
