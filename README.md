@@ -1,5 +1,5 @@
 GitHub Profile
-────────────────────
+||
 
 Hi, I'm Abylaikhan 👋
 
